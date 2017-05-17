@@ -24,7 +24,8 @@ export class Schema extends types.Base {
 		types.ComplexType,
 		types.Group,
 		types.Attribute,
-		types.Element
+		types.Element,
+		types.Redefine
 	];
 
 	init(state: State) {

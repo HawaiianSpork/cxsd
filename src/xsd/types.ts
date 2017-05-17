@@ -19,6 +19,7 @@ export {ComplexType, SimpleContent, ComplexContent} from './types/ComplexType';
 export {List} from './types/List';
 export {Union} from './types/Union';
 export {Extension} from './types/Extension';
+export {Redefine} from './types/Redefine';
 export {Restriction} from './types/Restriction';
 export {Enumeration} from './types/Enumeration';
 export {Import, Include} from './types/Import';
